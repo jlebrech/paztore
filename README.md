@@ -1,35 +1,11 @@
-# Ramaze Application
+__ Paztore __
 
-Welcome to your new Ramaze application. This README serves as a starting point
-for writing an application using the code you just generated.
+Just a small app to play around with Ramaze,
+It's final purpose will be an app that copies passwords to the clipboard
+and that only grant those passwords to users of the right access level.
 
-Once you've started working on your application you'll probably want to update
-this README so that its contents reflect your application's state and purpose.
+In the meantime you can use this to see how to set up Sequel migrations with Ramaze with a rake task.
 
-## Requirements
+Rake code courtesy of the following gist https://gist.github.com/viking/1133150 
 
-In order to run this application you'll need to have Ramaze 2.0.0 or newer and
-Rake. Optionally you can install Bundler and use it for Gem management, this
-can be done as following:
-
-    $ gem install bundler
-    $ bundle install
-
-## Rake Tasks
-
-This application comes with a few predefined Rake tasks that make it easy to
-get started. You can list these tasks by running `rake -T` or `rake -D` (this
-shows longer descriptions for tasks if there are any).
-
-For example, to start a Ramaze console using Pry you'd run the following
-command:
-
-    $ rake ramaze:pry
-
-## Resources
-
-In case you need help you can refer to the following resources:
-
-* Ramaze website: <http://ramaze.net/>
-* Github repository: <https://github.com/ramaze/ramaze>
-* IRC channel: \#ramaze on Freenode
+If you know how to improve any parts of this app please fork and submit a pull request.
