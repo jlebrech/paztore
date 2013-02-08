@@ -1,4 +1,4 @@
--=Paztore=-
+__Paztore__
 
 Just a small app to play around with Ramaze,
 It's final purpose will be an app that copies passwords to the clipboard
