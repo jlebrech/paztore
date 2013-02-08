@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    innate (2013.02)
+      rack (~> 1.4.1)
+    mysql (2.9.0)
+    rack (1.4.1)
+    rake (10.0.3)
+    ramaze (2012.12.08)
+      innate (>= 2012.12)
+      rake
+    sequel (3.44.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mysql
+  rake
+  ramaze (>= 2.0.0)
+  sequel
